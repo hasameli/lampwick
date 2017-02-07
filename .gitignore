@@ -1,0 +1,7 @@
+# Ignore archive
+archive/**
+
+# Ignore keys
+keys/**
+
+
