@@ -10,5 +10,5 @@ cd ./archive/
 git init
 git add .
 git commit -m "Initializing news archive"
-git remote add origin 
+git remote add origin $PUSHURL
 git push -u origin master
